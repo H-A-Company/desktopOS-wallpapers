@@ -1,5 +1,11 @@
-# desktopOS Wallpapers
-## These wallpapers  created use image from internet and use [Canva](https://www.canva.com) to make!
-![image](https://github.com/desktopOS/desktopOS-wallpapers/blob/main/venra.png?raw=true)
-![image](https://user-images.githubusercontent.com/93564256/186582270-b98658ba-8cb3-41ce-b903-c28de010402b.png)
+<h1 align="center">desktopOS Wallpapers</h1>
 
+<h1 align="center">These wallpapers created use image from internet and use <a href="Canva.com">Canva</a> to make!</h1>
+
+<h1 align="center">
+  <a href="https://github.com/desktopOS/desktopOS-wallpapers/blob/main/venra.png?raw=true"><img src="https://github.com/desktopOS/desktopOS-wallpapers/blob/main/venra.png?raw=true" alt="Venra"></a>
+</h1>
+
+<h1 align="center">
+  <a href="https://github.com/desktopOS/desktopOS-wallpapers/blob/main/Blue%20Ocean.png?raw=true"><img src="https://github.com/desktopOS/desktopOS-wallpapers/blob/main/Blue%20Ocean.png?raw=true" alt="Blue Ocean"></a>
+</h1>
